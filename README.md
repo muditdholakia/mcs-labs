@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/mcs-labs](https://github.com/microsoft/mcs-labs). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 ﻿# 🤖 Microsoft Copilot Studio Labs 🧪
 
 > 💡 **Looking for an easier way to browse these labs?** Check out our interactive web portal for a better reading experience: [Microsoft Copilot Studio Labs Portal](https://microsoft.github.io/mcs-labs/) 🌐
